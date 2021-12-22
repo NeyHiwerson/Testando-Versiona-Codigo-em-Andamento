@@ -6,6 +6,7 @@ public class testeDeVersionamento {
 		// TODO Auto-generated method stub
 		System.out.println("esse é outro versionamento do eclipse");
 		System.out.println("uma HORA VAI NA AOUTRA NÃO");
+		// é agora ta indo mesmo
 
 	}
 
